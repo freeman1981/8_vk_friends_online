@@ -1,6 +1,7 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+If you want to check friends online in vk.com without opening browser you
+can just run vk_friends_online.py and then enter password and login.
 
 # How to Install
 
